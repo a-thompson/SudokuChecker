@@ -1,7 +1,7 @@
 # Sudoku Checker
 
 ### Overview
-*For a class project, I was told to use multithreading to validate sudoku puzzles.*
+*For a class project in CPSC 380 Operating Systems, I was told to use multithreading to validate sudoku puzzles.*
 >The program will request a ".txt" file input.  Enter the filename (without the extension), and the result will be outputted as an ".out" file.
 
 ### Thread Description
