@@ -15,3 +15,11 @@
 
 #### Runner
 * Sudoku.cpp
+
+#### Test Files
+* Test1.txt
+* Test2.txt
+
+#### Test Results
+* Test1.out
+* Test2.out
